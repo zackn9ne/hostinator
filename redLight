@@ -15657,35 +15657,3 @@ Entries with comments are all searchable via Google.     #
 # QuickBooks Pro 2015
 #
 
-## vagrant-hostmanager-start id: 711eb3ed-784c-4ec4-b308-57b424cae679
-192.168.219.155	local.spoon.com 
-## vagrant-hostmanager-end
-
-192.168.50.4  vvv  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  vvv.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  local.wordpress.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  local.wordpress-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  src.wordpress-develop.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  build.wordpress-develop.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  wpmu-subdirectory-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  wpmu-subdirectory.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  wpmu-subdomain-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site1.wpmu-subdomain-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site2.wpmu-subdomain-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site3.wpmu-subdomain-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site4.wpmu-subdomain-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site5.wpmu-subdomain-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site6.wpmu-subdomain-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site7.wpmu-subdomain-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site8.wpmu-subdomain-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site9.wpmu-subdomain-trunk.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  wpmu-subdomain.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site1.wpmu-subdomain.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site2.wpmu-subdomain.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site3.wpmu-subdomain.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site4.wpmu-subdomain.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site5.wpmu-subdomain.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site6.wpmu-subdomain.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site7.wpmu-subdomain.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site8.wpmu-subdomain.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
-192.168.50.4  site9.wpmu-subdomain.dev  # VAGRANT: 522b54331f6f583ad7c95d2d03389d30 (default) / 5dc22cd4-b3de-4e98-ba90-f6075e994524
